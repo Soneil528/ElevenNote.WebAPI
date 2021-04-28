@@ -14,3 +14,9 @@ C:\Users\Soneil\source\repos\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\Ent
 C:\Users\Soneil\source\repos\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Soneil\source\repos\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\Soneil\source\repos\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
+C:\Users\Soneil\source\repos\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll
+C:\Users\Soneil\source\repos\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll
+C:\Users\Soneil\source\repos\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
+C:\Users\Soneil\source\repos\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
+C:\Users\Soneil\source\repos\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
+C:\Users\Soneil\source\repos\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
